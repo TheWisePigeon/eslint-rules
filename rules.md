@@ -7,5 +7,18 @@
 
 **enforce linebreaks after opening and before closing brackets**
 ```javascript
-    const test = "bruh";
+    //error
+    let a = [1, 2];
+    let b = [];
+
+    //no errors
+    let a = [
+        1,
+        2
+
+    ];
+    let b = [
+
+    ];
+
 ```
