@@ -64,3 +64,10 @@ Quick illustration
     ];
 ```
 
+```javascript
+/* eslint-disable brace-style */
+```
+**enforce consistent brace style for blocks. Read more about (brace style)[https://en.wikipedia.org/wiki/Indent_style]**
+```javascript
+
+```
