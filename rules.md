@@ -1,5 +1,6 @@
-# Rules that care about how the code looks rather than how it executes 😑
-## Format:
+# Format:
     /* rule */
     ** what the rule actually does **
+
+## Rules that care about how the code looks rather than how it executes 😑
 /* eslint-disable array-bracket-newline */
