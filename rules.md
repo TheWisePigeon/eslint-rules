@@ -1,10 +1,13 @@
 # Format:
-/* rule */
+/*eslint-disable rule */
 ** what the rule actually does **
 Quick illustration
 
 ## Rules that care about how the code looks rather than how it executes 😑
-    /* eslint-disable array-bracket-newline */
+```javascript
+/* eslint-disable array-bracket-newline */
+```
+
 
 **enforce linebreaks after opening and before closing brackets**
 ```javascript
@@ -23,7 +26,9 @@ Quick illustration
 
 ```
 
-    /* eslint-disable array-bracket-spacing */
+```javascript
+/* eslint-disable array-bracket-spacing */
+```
 
 **enforce consistent spacing inside array brackets**
 ```javascript
@@ -36,7 +41,9 @@ Quick illustration
     let b = [ 'another', 'value' ]
 ```
 
-    /* eslint-disable array-element-newline */
+```javascript
+/* eslint-disable array-element-newline */
+```
 **enforce line breaks after each array element**
 ```javascript
     //error-prone code
@@ -56,3 +63,4 @@ Quick illustration
         3
     ];
 ```
+
