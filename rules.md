@@ -173,20 +173,4 @@ Quick illustration
     }
 
     //clean code
-    function()
-    {
-
-    }
-
-    if()
-    {
-
-    }
-
-    //or
-    function(){
-
-    }
-    if(){
-
-    }
+    f
