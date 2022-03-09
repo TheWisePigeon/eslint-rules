@@ -129,3 +129,64 @@ Quick illustration
     if(){
 
     }
+
+    **enforce consistent brace style for blocks. Read more about [brace style](https://en.wikipedia.org/wiki/Indent_style)**
+```javascript
+    //error-prone code
+    function()
+    {
+        
+    }
+
+    if(){
+        
+    }
+
+    //clean code
+    function()
+    {
+
+    }
+
+    if()
+    {
+
+    }
+
+    //or
+    function(){
+
+    }
+    if(){
+
+    }
+    **enforce consistent brace style for blocks. Read more about [brace style](https://en.wikipedia.org/wiki/Indent_style)**
+```javascript
+    //error-prone code
+    function()
+    {
+        
+    }
+
+    if(){
+        
+    }
+
+    //clean code
+    function()
+    {
+
+    }
+
+    if()
+    {
+
+    }
+
+    //or
+    function(){
+
+    }
+    if(){
+
+    }
