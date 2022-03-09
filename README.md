@@ -1,2 +1,2 @@
 # eslint rules
-## A collection of annoying eslint rules I always disable
+## A random repo I made cos I was boring
